@@ -1,0 +1,6 @@
+owner=579808920873467904
+prefix=9
+game=Type 9help
+stayinchannel=true
+songinstatus=false
+token=NTgyNDk5OTM5MTUwNTk0MDU4.XOutXA.yZgqyC7JfpPqoNEJtr-RPp7xFNs
